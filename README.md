@@ -1,4 +1,3 @@
-
 <h1 align="center" style="text-align:center">Vue Gates - Protecting every thing</h1>
 
 <p align="center">
@@ -40,3 +39,5 @@ You are welcome to contribute to this project, but before you do, please make su
 ## 🔒 License
 
 MIT
+=======
+# nuxtjs-permission
